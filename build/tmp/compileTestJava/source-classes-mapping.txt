@@ -1,0 +1,2 @@
+com/pbl/nagadapi/NagadApiApplicationTests.java
+ com.pbl.nagadapi.NagadApiApplicationTests
